@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RakhimullinP3</string>
+    <string name="widget_name">Название виджета</string>
+    <string name="widget_text">Текст отображаемый виджетом</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="weather_api_key">2b67a92a20364b484854258b77ea162a</string>Fet
+
+</resources>
